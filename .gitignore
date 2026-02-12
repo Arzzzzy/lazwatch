@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+
+# Data (Do not upload your tracking history)
+data/*.json
+
+# Logs
+*.log
